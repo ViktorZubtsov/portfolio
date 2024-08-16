@@ -25,11 +25,10 @@ title:                 Виктор Зубцов
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  Frontend разработчик, опыт коммерческой разработки я уже более 3-х лет. Участвовал в проектах в областях E-Com, EdTech, Blockchain. Имею опыт как в разработке приложений с нуля, так и в подключении к развитию существующего продукта.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               Middle Frontend разработчик
 
 # A list of keywords for your blog
 keywords:              []
@@ -96,7 +95,7 @@ accent_color:          rgb(79,177,186)
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
 # Defaults to `accent_color`.
-theme_color:           rgb(25,55,71)
+theme_color:           rgb(8, 46, 57)
 
 # The string encoding which fonts to fetch from Google Fonts.
 # See: <https://hydejack.com/docs/configuration/>
@@ -119,10 +118,10 @@ defaults:
   - scope:
       path:            hyde/
     values:
-      accent_color:    rgb(38,139,210)
-      theme_color:     rgb(32,32,32)
+      accent_color:    rgb(79, 177, 186)
+      theme_color:     rgb(8, 46, 57)
       accent_image:
-        background:    rgb(32,32,32)
+        background:    rgb(8, 46, 57)
         overlay:       false
 
   # Don't include documents in assets in the sitemap
