@@ -5,7 +5,7 @@ description: >
     Тест
 hide_description: false
 sitemap: false
-permalink: /docs/
+permalink: /resume/
 ---
 
 test 
